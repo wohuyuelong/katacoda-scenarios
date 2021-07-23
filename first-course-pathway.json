@@ -1,0 +1,11 @@
+{
+  "title": "first-course",
+  "description": "This is nmb-allen fist katacoda-course.",
+  "courses": [
+    {
+      "course_id": "",
+      "title": "Ubuntu 20.04 Instance",
+      "description": "General purpose environment"
+    }
+  ]
+}
